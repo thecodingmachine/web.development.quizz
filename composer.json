@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "WebDevelopmentQuizz\\": "src/"
+        }
+
+    },
+    "require": {
+        "mouf/mouf": "^2.0.0",
+        "mouf/mvc.splash": "^8.0.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
